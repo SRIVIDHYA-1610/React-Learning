@@ -1,0 +1,84 @@
+#root{
+  box-sizing: border-box;
+ 
+   
+     min-height: 100vh;
+     margin:auto;
+     background-color: rgb(239, 216, 237);
+}
+.img{
+   width: 150px;
+    height: 150px;
+     margin-top: 20px;
+      margin-left: 15px;
+       padding: 3px;
+      border: 3px solid hwb(251 44% 12%);
+       border-radius: 50%;
+      box-shadow: 1px 1px 1px 1px rgb(123, 120, 120);
+}
+ h2{
+  margin:10px 0;
+ }
+  .Card{
+    
+    background-color: hwb(251 77% 0%);
+    width: 300px;
+     height: 400px;
+      box-shadow: 2px 3px 3px 2px slateblue;
+      text-align: center;
+       border-radius: 10px;
+        position: relative;
+         
+  }
+   h4{
+     position: absolute;
+      left:5px;
+       padding: 5px;
+        font-size: 15px;
+
+   }
+   .mt{
+ 
+     margin-top: 5px;
+      margin-left: 3px;
+    border-radius: 5px;
+     padding: 8px;
+      background-color: rgb(117, 117, 235);
+   }
+   .fo{
+   
+     margin-top: 5px;
+      margin-left: 50px;
+      border-radius: 5px;
+      padding: 8px;
+       background-color: rgb(223, 131, 162);
+
+
+   }
+    .mt:hover{
+       background-color: rgb(63, 63, 229);
+    }
+     .fo:hover{
+      background-color: rgb(226, 76, 126);
+     }
+      .online{
+        background-color: rgb(76, 210, 76);
+      }
+      .offline{
+         background-color: yellow;
+
+      }
+         h1{
+        text-align: center;
+        margin-top:10px
+
+       }
+        .simple{
+           background-color:  blue;
+            padding: 5px;
+             border-radius: 20px;
+              margin-top: 5px;
+
+    
+              
+        }
